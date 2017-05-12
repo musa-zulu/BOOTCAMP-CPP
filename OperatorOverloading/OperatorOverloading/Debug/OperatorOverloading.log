@@ -1,0 +1,5 @@
+﻿  Time.cpp
+e:\systems\bootcamp\operatoroverloading\operatoroverloading\time.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  OperatorOverloading.cpp
+  Generating Code...
+  OperatorOverloading.vcxproj -> E:\Systems\BOOTCAMP\OperatorOverloading\Debug\OperatorOverloading.exe

@@ -1,0 +1,3 @@
+﻿  FloatingPoint.cpp
+e:\systems\bootcamp\floatingpoint\floatingpoint\floatingpoint.cpp(10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  FloatingPoint.vcxproj -> E:\Systems\BOOTCAMP\FloatingPoint\Debug\FloatingPoint.exe
